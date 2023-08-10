@@ -1,1 +1,0 @@
-selecto * from people
